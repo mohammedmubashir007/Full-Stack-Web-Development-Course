@@ -1,0 +1,18 @@
+/* .bg{
+    height: 1000px;
+    width: 1200px;
+
+    background: aqua url("david-becker-ea4FS8zIsqE-unsplash.jpg") no-repeat left top/20%;
+} */
+
+
+#attach{
+    /* height: 1000px; */
+    /* background-color: blanchedalmond; */
+background-image: url("david-becker-ea4FS8zIsqE-unsplash.jpg");
+background-repeat: no-repeat;
+background-size: 100px;
+background-position: bottom right;
+background-attachment:local scroll;
+}
+

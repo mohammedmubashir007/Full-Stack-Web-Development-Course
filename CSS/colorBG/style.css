@@ -1,0 +1,9 @@
+.div {
+    height: 2300px;
+    background-color: aqua;
+    background-image: url("images/srk.jpg");
+    background-repeat: no-repeat;
+    background-size: 200px;
+    background-position: bottom right;
+
+}
